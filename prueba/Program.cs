@@ -1,14 +1,10 @@
-﻿Console.WriteLine("que caja quiere abrir");
-int opciones = int.Parse(Console.ReadLine());
+﻿// ejercicio uno de for prueba }
 
-switch (opciones)
+for(int fila = 0; fila << 5; fila++)
 {
-    case 1:
-        int i = 1;
-        while(i < 5)
-        {
-            Console.WriteLine(i);
-            i++;
-        }
-        break; 
+    for(int col = 0; col < 5; col++)
+    {
+        Console.Write("1 ;")
+    }
+    Console.WriteLine();
 }
