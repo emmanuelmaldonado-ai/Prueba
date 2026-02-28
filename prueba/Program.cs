@@ -1,10 +1,2 @@
-﻿// ejercicio uno de for prueba }
+﻿// prueba solo con texto para saber si funcionann los commits que coloco en cada commit del repositorio de prueba 
 
-for(int fila = 0; fila << 5; fila++)
-{
-    for(int col = 0; col < 5; col++)
-    {
-        Console.Write("1 ;")
-    }
-    Console.WriteLine();
-}
